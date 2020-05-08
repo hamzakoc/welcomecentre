@@ -1,0 +1,40 @@
+
+.exc-background {
+  /* background-color: #282c34; */
+ padding:20px;
+
+ 
+  color: rgb(124, 65, 10);
+}
+
+.exc-header {
+  line-height: 30px; 
+  
+    /* background: rgba(5, 97, 128); */
+  
+    color: rgb(124, 65, 10);
+   
+  
+    padding: 10px 10px 10px; 
+    text-transform: uppercase; 
+}
+
+
+table, th, td {
+  border: 1px solid rgb(59, 26, 26);
+  text-align: left;
+  
+}
+
+table {
+  width: 100%;
+  
+  
+  
+}
+
+th {
+  height: 50px;
+  background-color:
+ 
+}
